@@ -8,7 +8,7 @@
 
 只需要一个`$`符号，即可将当前目录下的资源收集进同一个bundle
 
-**YooAssetr**
+**YooAsset**
 
 YooAsset是一套用于Unity3D的资源管理系统，用于帮助研发团队快速部署和交付游戏。
 
