@@ -119,5 +119,7 @@ MonoBehaviour静态基类
 名称            安装方式
 
 2D Sprite       PackageManager
+
 Collections     PackageManager
+
 Yooasset3        参考yooasset安装方式
