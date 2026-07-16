@@ -5,6 +5,13 @@
 是一套基于yooasset3开发的资源管理系统，用于帮助研发团队快速部署和交付游戏。 
 它通过文件夹名字匹配自动实现yooasset所需要的资源收集
 
+**YooAssetr**
+YooAsset是一套用于Unity3D的资源管理系统，用于帮助研发团队快速部署和交付游戏。
+官方github
+https://github.com/tuyoogame/YooAsset
+官方主页（教程文档）
+https://www.yooasset.com/
+
 **资源收集规则**
 
 尽量不要在子文件夹嵌套带有$前置符号，可能会引起解析错误
