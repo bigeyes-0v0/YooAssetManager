@@ -6,6 +6,7 @@
 它通过文件夹名字匹配自动实现yooasset所需要的资源收集
 
 **YooAssetr**
+
 YooAsset是一套用于Unity3D的资源管理系统，用于帮助研发团队快速部署和交付游戏。
 
 官方github
@@ -19,6 +20,7 @@ https://www.yooasset.com/
 **资源收集规则**
 
 尽量不要在子文件夹嵌套带有$前置符号，可能会引起解析错误
+
 所有资源都会打进MainPackage/MainGroup，需要多package多group的话自行修改
 
 - **文件夹命名前置符号**
