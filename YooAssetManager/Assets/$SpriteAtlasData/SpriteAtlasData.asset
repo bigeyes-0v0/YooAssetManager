@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5839439304a099e4282b38ad11ed7aa2, type: 3}
+  m_Name: SpriteAtlasData
+  m_EditorClassIdentifier: 
+  spriteAtlasSaveDatas:
+  - fileName: IconAtlas.spriteatlasv2
+    spriteNames:
+    - AttackSpeed
+    - Baby
+    - Bag
+  multipleTexture2DSaveDatas:
+  - fileName: Baby 1.png
+    spriteNames:
+    - Baby 1_0
+    - Baby 1_1
+  singleSpritefileNames:
+  - Attack.png

@@ -1,0 +1,78 @@
+﻿YooAssetManager/.*
+YooAssetManager/Library
+YooAssetManager/Temp
+YooAssetManager/Logs
+YooAssetManager/AmplifyShaderEditor.Samples.BuiltIn.csproj
+YooAssetManager/AmplifyShaderEditor.csproj
+YooAssetManager/Assembly-CSharp-firstpass.csproj
+YooAssetManager/Assembly-CSharp-Editor.csproj
+YooAssetManager/Assembly-CSharp.csproj
+YooAssetManager/KWS.csproj
+YooAssetManager/YooAssetManager.sln
+YooAssetManager/UserSettings
+*.csproj
+*.sln
+YooAssetManager/obj
+
+YooAssetManager/Assets/BundleInfoFile.txt
+YooAssetManager/Assets/BundleInfoFile.txt.meta
+YooAssetManager/Assets/StreamingAssets/bundles.meta
+YooAssetManager/.idea
+YooAssetManager/.cache
+YooAssetManager/[Bb]undles/
+
+# # Never ignore DLLs in the FMOD subfolder.
+# !YooAssetManager/[Aa]ssets/Plugins/FMOD/**/lib/*
+
+# # Don't ignore images and gizmos used by FMOD in the Unity Editor.
+# !/YooAssetManager/[Aa]ssets/Gizmos/FMOD/*
+# !/YooAssetManager/[Aa]ssets/Editor Default Resources/FMOD/*
+                    
+# Ignore the Cache folder since it is updated locally.
+/YooAssetManager/[Aa]ssets/Plugins/FMOD/Cache/*
+                    
+# Ignore bank files in the StreamingAssets folder.
+# YooAssetManager/[Aa]ssets/StreamingAssets/**/*.bank
+# YooAssetManager/[Aa]ssets/StreamingAssets/**/*.bank.meta
+                    
+# If the source bank files are kept outside of the StreamingAssets folder then these can be ignored.
+# Log files can be ignored.
+/YooAssetManager/fmod_editor.log
+
+/YooAssetManager/FModProject/.cache/
+/YooAssetManager/FModProject/.user/
+/YooAssetManager/FModProject/.unsaved/
+/YooAssetManager/.vscode
+/YooAssetManager/.vs
+/YooAssetManager/ClientConfigCache
+/YooAssetManager/ClientConfigTemp
+/YooAssetManager/HybridCLRData
+# /YooAssetManager/Assets/Plugins/FMOD/platforms
+/YooAssetManager/ServerData
+
+/YooAssetManager/Assets/StreamingAssets/*
+/YooAssetManager/Assets/StreamingAssets.meta
+YooAssetManager/Assets/BundledAssets/Module
+YooAssetManager/Assets/BundledAssets/Module.meta
+YooAssetManager/Assets/AddressableAssetsData/AssetGroups
+YooAssetManager/Assets/StreamingAssets/AOTDLL
+YooAssetManager/Assets/StreamingAssets
+YooAssetManager/Assets/HybridCLRGenerate
+YooAssetManager/Assets/AddressableAssetsData
+/DesignerConfigs/.cache.meta
+/.cache.meta
+/YooAssetManager/Assets/SceneDependencyCache
+/YooAssetManager/Assets/SceneDependencyCache.meta
+/YooAssetManager/YooAssetManager.sln.DotSettings.user 
+/YooAssetManager/Assets/Unity.VisualScripting.Generated
+/YooAssetManager/Assets/Unity.VisualScripting.Generated.meta
+/YooAssetManager/Assets/AnimGraph.Generated
+/YooAssetManager/Assets/AnimGraph.Generated.meta
+/YooAssetManager/Assets/RigGraph.Generated
+/YooAssetManager/Assets/RigGraph.Generated.meta
+/YooAssetManager/Assets/TJAIGraph 
+/YooAssetManager/Assets/TJAIGraph.meta
+
+/YooAssetManager/Assets/YooAssetAsssetData/*
+
+/YooAssetManager/Assets/Physics Hulls/* 
