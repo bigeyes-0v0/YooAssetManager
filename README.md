@@ -2,7 +2,7 @@
 
 **YooAssetManager**
 
-是一套基于yooasset3开发的资源管理系统，用于帮助研发团队快速部署和交付游戏。 
+YooAssetManager是一套基于yooasset3开发的资源收集系统。 
 
 它通过文件夹名字匹配自动实现yooasset所需要的资源收集
 
