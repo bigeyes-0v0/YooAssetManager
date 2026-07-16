@@ -21,7 +21,8 @@ https://www.yooasset.com/
 尽量不要在子文件夹嵌套带有$前置符号，可能会引起解析错误
 所有资源都会打进MainPackage/MainGroup，需要多package多group的话自行修改
 
-- **文件夹命名前置符号** 
+- **文件夹命名前置符号**
+   
     **`$`**
         收集当前目录下的所有资源为一个bundle,收集器类型为MainAssetCollector,写入清单，通过yooasset加载 
 
