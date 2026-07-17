@@ -13,8 +13,13 @@ public class AutoRefreshYooAssetBundleEditor : AssetPostprocessor
         // YooAssetSettingsUtility.AddBundleFolder(importedAsset, movedAssets);
         YooAssetSettingsUtility.Refresh();
     }
-
+    
     [InitializeOnLoadMethod]
+    static void InitializeOnLoad()
+    {
+        EditorApplication.delayCall += Initialize;
+    }
+
     [MenuItem("YooAsset/Refresh")]
     public static void Initialize()
     {
